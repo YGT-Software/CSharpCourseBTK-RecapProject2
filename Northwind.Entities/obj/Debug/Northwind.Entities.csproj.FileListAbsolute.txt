@@ -1,0 +1,6 @@
+C:\Users\muaze\Desktop\CSharpCourseBTK\NLayeredAppDemo\Northwind.Entities\bin\Debug\Northwind.Entities.dll
+C:\Users\muaze\Desktop\CSharpCourseBTK\NLayeredAppDemo\Northwind.Entities\bin\Debug\Northwind.Entities.pdb
+C:\Users\muaze\Desktop\CSharpCourseBTK\NLayeredAppDemo\Northwind.Entities\obj\Debug\Northwind.Entities.csproj.AssemblyReference.cache
+C:\Users\muaze\Desktop\CSharpCourseBTK\NLayeredAppDemo\Northwind.Entities\obj\Debug\Northwind.Entities.csproj.CoreCompileInputs.cache
+C:\Users\muaze\Desktop\CSharpCourseBTK\NLayeredAppDemo\Northwind.Entities\obj\Debug\Northwind.Entities.dll
+C:\Users\muaze\Desktop\CSharpCourseBTK\NLayeredAppDemo\Northwind.Entities\obj\Debug\Northwind.Entities.pdb
